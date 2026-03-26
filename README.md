@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Oi, eu sou a Sthefany!
 
-<!--
-**sthefanypereira521-dotcom/sthefanypereira521-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Finalizando minha graduação em IoT (Internet das Coisas)
+💻 Futura desenvolvedora Backend com Python
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##   Sobre mim
+
+Gosto de aprender na prática e acompanharminha evoluçao  passo a passo.
+estou construindo minha base na área de tecnologia com foco em backend 💻
+
+
+## Tecnologias em estudo 💻
+ Python
+ PostgreSQL
+ Lógica de programação
+ RESTful APIs
+ FastAPI
+
+##  Atualmente
+
+Bootcamp Backend em python
+Estudos de Python
+Estudos de PostgreSQL
+ 
+##  Objetivo
+Me tornar uma desenvolvedora backend sólida, criando projetos reais com Python e banco de dados.
+
+
+##  O que você vai encontrar aqui no meu GitHub
+
+Exercícios práticos
+Algoritmos
+Projetos simples
+Minha evolução como desenvolvedora
+
+
+##  Status
+ Em constante evolução 
+
+
+
