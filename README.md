@@ -1,19 +1,20 @@
-# 👋 Oi, eu sou a Sthefany!
+# Ola, eu sou a Sthefany!
 
-🎓 Finalizando minha graduação em IoT (Internet das Coisas)  
-💻 Futura desenvolvedora Backend com Python.
+ Finalizando minha graduação em IoT (Internet das Coisas)  
+ Futura desenvolvedora Backend com Python.
 
 
 ##   Sobre mim
 
 Gosto de aprender na prática e acompanhar minha evoluçao  passo a passo.
-estou construindo minha base na área de tecnologia com foco em backend 💻
+estou construindo minha base na área de tecnologia com foco em backend 
 
 
-## Tecnologias em estudo 💻
+## Tecnologias em estudo 
  Python,
  PostgreSQL,
  Lógica de programação,
+ Estrutura de Dados,
  RESTful APIs,
  FastAPI.
 
