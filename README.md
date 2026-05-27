@@ -29,6 +29,12 @@
 
 
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sthefanypereira521-dotcom&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sthefanypereira521-dotcom&layout=compact&theme=tokyonight)
+
+
+
 # Ola, eu sou a Sthefany!
 
 
