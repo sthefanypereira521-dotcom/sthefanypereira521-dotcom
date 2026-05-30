@@ -57,9 +57,9 @@ Minha evolução como desenvolvedora.
 
 # Contato
 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sthefanypereira521@gmail.com)sthefanypereira521@gmail.com
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sthefanypereira521@gmail.com)
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sthefany-pereira-dev)https://www.linkedin.com/in/sthefany-pereira-dev
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sthefany-pereira-dev)
 
 
