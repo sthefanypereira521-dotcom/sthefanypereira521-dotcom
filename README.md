@@ -27,7 +27,7 @@ estou construindo minha base na área de tecnologia com foco em backend
 
 ## Tecnologias em estudo 
  Python,
- java
+ java,
  PostgreSQL,
  Lógica de programação,
  Estrutura de Dados,
@@ -36,7 +36,7 @@ estou construindo minha base na área de tecnologia com foco em backend
 
 ##  Atualmente
 
-Bootcamp Backend em python, em  Java e AWS ,
+Bootcamp Backend em python, em  Java,  em AWS,
 Estudos de PostgreSQL.
  
 ##  Objetivo
