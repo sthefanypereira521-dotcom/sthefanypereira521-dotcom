@@ -24,6 +24,9 @@
 
 
 
+[![My Skills](https://skillicons.dev/icons?i=python,postgres,fastapi,git,github)](https://skillicons.dev)
+
+
 
 ![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow?style=flat-square)
 
