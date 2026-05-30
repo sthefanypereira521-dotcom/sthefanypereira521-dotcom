@@ -1,26 +1,5 @@
+Tecnologias em estudo
 
-
-![Python](https://img.shields.io/badge/Python-3.9+-blue?style=flat-square&logo=python)
-
-
-
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-14+-336791?style=flat-square&logo=postgresql)
-
-
-
-
-![FastAPI](https://img.shields.io/badge/FastAPI-0.95+-green?style=flat-square&logo=fastapi)
-
-
-
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git)
-
-
-
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
 
 
 
@@ -81,5 +60,9 @@ Minha evolução como desenvolvedora.
 ##  Status
  Em constante evolução 
 
+Contato
+
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sthefanypereira521@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sthefany-pereira-dev)
 
 
