@@ -1,6 +1,6 @@
 # Tecnologias em estudo
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,js,postgres,fastapi,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,postgres,fastapi,git,github)](https://skillicons.dev)
 
 
 
