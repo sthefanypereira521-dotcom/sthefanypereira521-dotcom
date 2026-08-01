@@ -1,3 +1,6 @@
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=200&section=header&text=Futura%20Dev%20Backend&fontSize=40&fontColor=ffffff&animation=fadeIn)
+
+
 # Tecnologias em estudo
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,python,fastapi,postgres,git,github)](https://skillicons.dev)
