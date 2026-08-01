@@ -1,7 +1,7 @@
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=200&section=header&text=Futura%20Dev%20Backend&fontSize=40&fontColor=ffffff&animation=fadeIn)
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sthefanypereira521-dotcom&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=ffffff)
+
 
 # Tecnologias em estudo
 
