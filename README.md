@@ -1,4 +1,4 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=200&section=header&text=Futura%20Dev%20Backend&fontSize=40&fontColor=ffffff&animation=fadeIn)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=200&section=header&text=Futura%20Dev%20Backend&fontSize=40&fontColor=ffffff&animation=fadeIn)
 
 
 
