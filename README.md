@@ -1,6 +1,6 @@
 # Tecnologias em estudo
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,postgres,fastapi,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,fastapi,git,github)](https://skillicons.dev)
 
 
 
@@ -9,6 +9,13 @@
 
 
 
+
+## Ferramentas que uso
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
 
@@ -27,18 +34,16 @@ estou construindo minha base na área de tecnologia com foco em backend
 
 ## Tecnologias em estudo 
  Python,
- java,
  PostgreSQL,
- Lógica de programação,
  Estrutura de Dados,
  RESTful APIs,
+ sqlalchemy,
+ alembic,
  FastAPI.
 
-##  Atualmente
+## Atualmente
+Aprendendo sobre migrações de banco de dados com Alembic, SQLAlchemy e PostgreSQL.
 
-Bootcamp Backend em python, em  Java,  em AWS,
-Estudos de PostgreSQL.
- 
 ##  Objetivo
 Me tornar uma desenvolvedora backend sólida, criando projetos reais com Python e banco de dados.
 
