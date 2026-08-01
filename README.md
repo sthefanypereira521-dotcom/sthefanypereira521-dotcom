@@ -1,8 +1,8 @@
 # Tecnologias em estudo
 
-[![My Skills](https://skillicons.dev/icons?i=python,fastapi,html,css,js)](https://skillicons.dev)
-
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,python,fastapi,postgres,git,github)](https://skillicons.dev)
+
+
 
 
 ![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow?style=flat-square)
@@ -39,7 +39,12 @@ estou construindo minha base na área de tecnologia com foco em backend
  RESTful APIs,
  sqlalchemy,
  alembic,
- FastAPI.
+ FastAPI,
+ js,
+ html,
+ css.
+
+
 
 ## Atualmente
 Aprendendo sobre migrações de banco de dados com Alembic, SQLAlchemy e PostgreSQL.
