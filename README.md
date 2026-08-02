@@ -42,9 +42,12 @@ Projetos simples,
 Minha evolução como desenvolvedora.
 
 ##  Estatísticas
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=sthefanypereira521-dotcom&show_icons=true&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=b388ff&icon_color=b388ff&text_color=e0d4ff)
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=sthefanypereira521-dotcom&layout=compact&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=b388ff&text_color=e0d4ff)
+![Estatísticas do GitHub](https://github-readme-stats-sigma-plum.vercel.app/api?username=sthefanypereira521-dotcom&show_icons=true&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=b388ff&icon_color=b388ff&text_color=e0d4ff)
+
+![Linguagens mais usadas](https://github-readme-stats-sigma-plum.vercel.app/api/top-langs/?username=sthefanypereira521-dotcom&layout=compact&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=b388ff&text_color=e0d4ff)
+
+
 
 ##  Status
 Em constante evolução 💜
