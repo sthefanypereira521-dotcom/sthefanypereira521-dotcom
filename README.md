@@ -41,6 +41,8 @@ Exercícios práticos,
 Projetos simples,
 Minha evolução como desenvolvedora.
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=sthefanypereira521-dotcom)](https://github.com/sthefanypereira521-dotcom)
+
 
 ##  Status
 Em constante evolução 💜
