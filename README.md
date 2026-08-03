@@ -41,12 +41,18 @@ Exercícios práticos,
 Projetos simples,
 Minha evolução como desenvolvedora.
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=sthefanypereira521-dotcom)](https://github.com/sthefanypereira521-dotcom)
 
 
 ##  Status
 Em constante evolução 💜
 
+
 ##  Contato
 [![Gmail](https://img.shields.io/badge/Gmail-7B2CBF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sthefanypereira521@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-5A189A?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sthefany-pereira-dev)
+
+
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=sthefanypereira521-dotcom&theme=shadow_red&show_icons=true&include_all_commits=true&rank_icon=percentile)](https://github.com/sthefanypereira521-dotcom)
+
+
