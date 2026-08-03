@@ -12,6 +12,7 @@ Estou construindo minha base na área de tecnologia com foco em backend.
 ##  Tecnologias em estudo
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,python,fastapi,postgres,git,github)](https://skillicons.dev)
 
+
 Python,
 PostgreSQL,
 Estrutura de Dados,
@@ -54,5 +55,7 @@ Em constante evolução 💜
 
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=sthefanypereira521-dotcom&theme=shadow_red&show_icons=true&include_all_commits=true&rank_icon=percentile)](https://github.com/sthefanypereira521-dotcom)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=sthefanypereira521-dotcom&show_icons=true&include_all_commits=true&rank_icon=percentile&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FF0000&border_color=FF0000)](https://github.com/sthefanypereira521-dotcom)
 
 
