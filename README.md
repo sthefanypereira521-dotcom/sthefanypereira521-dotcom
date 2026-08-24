@@ -19,13 +19,10 @@ Estou construindo minha base na área de tecnologia com foco em backend.
 
 
 
-
 ##  Tecnologias em estudo
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,python,fastapi,postgres,git,github,docker)](https://skillicons.dev)
 
 
-
-  
 
 
 ##  Ferramentas que uso
@@ -34,7 +31,6 @@ Estou construindo minha base na área de tecnologia com foco em backend.
 ![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 
@@ -46,7 +42,6 @@ Me tornar uma desenvolvedora backend sólida, criando projetos reais com Python 
 Exercícios práticos,
 Projetos simples,
 Minha evolução como desenvolvedora.
-
 
 
 
