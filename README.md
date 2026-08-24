@@ -1,27 +1,30 @@
+![Banner](./docs/github-header-banner.png)
+
 # Olá, eu sou a Sthefany! 💜
 
 Finalizando minha graduação em IoT (Internet das Coisas)
 Futura desenvolvedora Backend com Python.
 
-![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-9D4EDD?style=flat-square)
-
 ## 💜 Sobre mim
 Gosto de aprender na prática e acompanhar minha evolução passo a passo.
 Estou construindo minha base na área de tecnologia com foco em backend.
 
-##  Tecnologias em estudo
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,fastapi,postgres,git,github)](https://skillicons.dev)
 
-- HTML
-- css
-- javascript 
-- Python
-- fastapi
-- PostgreSQL
-- Estrutura de Dados
-- RESTful APIs
-- SQLAlchemy
-- Alembic
+##  Contato
+[![Gmail](https://img.shields.io/badge/Gmail-7B2CBF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sthefanypereira521@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-5A189A?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sthefany-pereira-dev)
+[![GitHub](https://img.shields.io/badge/GitHub-6A0DAD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sthefanypereira521-dotcom)
+
+
+
+
+
+
+##  Tecnologias em estudo
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,fastapi,postgres,git,github,docker)](https://skillicons.dev)
+
+
+
   
 
 
@@ -32,9 +35,9 @@ Estou construindo minha base na área de tecnologia com foco em backend.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-##  Atualmente
-Aprendendo sobre migrações de banco de dados com Alembic, SQLAlchemy e PostgreSQL.
+
 
 ##  Objetivo
 Me tornar uma desenvolvedora backend sólida, criando projetos reais com Python e banco de dados.
@@ -46,20 +49,9 @@ Minha evolução como desenvolvedora.
 
 
 
-##  Status
-Em constante evolução 💜
-
-
-##  Contato
-[![Gmail](https://img.shields.io/badge/Gmail-7B2CBF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sthefanypereira521@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-5A189A?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sthefany-pereira-dev)
-
 
 
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=sthefanypereira521-dotcom&show_icons=true&include_all_commits=true&rank_icon=percentile&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FF0000&border_color=FF0000)](https://github.com/sthefanypereira521-dotcom)
-
-
-[![Repo Card](https://github-stats-extended.vercel.app/api/pin?username=sthefanypereira521-dotcom&repo=sistema_bancario&show_owner=true&theme=monokai)](https://github.com/sthefanypereira521-dotcom/sistema_bancario)
 
 
