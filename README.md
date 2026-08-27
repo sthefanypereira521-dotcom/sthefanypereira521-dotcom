@@ -1,4 +1,4 @@
-![Banner](./docs/github-header-banner.png)
+
 
 # Olá, eu sou a Sthefany! 💜
 
@@ -20,16 +20,12 @@ Estou construindo minha base na área de tecnologia com foco em backend.
 
 
 ##  Tecnologias em estudo
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,fastapi,postgres,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,fastapi,Java,postgres,docker)](https://skillicons.dev)
 
 
 
 
 ##  Ferramentas que uso
-[![My Skills](https://skillicons.dev/icons?i=
-vsCode,git,docker,insomnia,github)](https://skillicons.dev)
-
-
 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
