@@ -20,12 +20,16 @@ Estou construindo minha base na área de tecnologia com foco em backend.
 
 
 ##  Tecnologias em estudo
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,fastapi,postgres,git,github,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,fastapi,postgres,docker)](https://skillicons.dev)
 
 
 
 
 ##  Ferramentas que uso
+[![My Skills](https://skillicons.dev/icons?i=
+vsCode,git,docker,insomnia,github)](https://skillicons.dev)
+
+
 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
@@ -50,8 +54,8 @@ Minha evolução como desenvolvedora.
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=SEU_USERNAME&show_icons=true&include_all_commits=true&rank_icon=percentile&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FF0000&border_color=FF0000)](https://github.com/sthefanypereira521-dotcom)
 
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=sthefanypereira521-dotcom&theme=dark&border=FF0000)](https://git.io/streak-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&border_color=FF0000)](https://github.com/sthefanypereira521-dotcom)
-
+[![Principais idiomas](https://github-readme-stats.vercel.app/api/top-langs/?username=sthefanypereira521-dotcom&layout=compact&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&border_color=FF0000)](https://github.com/sthefanypereira521-dotcom)
 
