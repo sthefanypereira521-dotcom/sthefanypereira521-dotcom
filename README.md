@@ -1,12 +1,4 @@
-<<<<<<< HEAD
-
 <img scr="./docs/Avatar(1).png" width="600">
-=======
-
->>>>>>> 
-
-
-
 
 
 # Olá, eu sou a Sthefany! 💜
