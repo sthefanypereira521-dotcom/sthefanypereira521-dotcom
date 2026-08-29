@@ -1,4 +1,4 @@
-![minha foto]./docs/Avatar(1).jpg
+![minha foto](./docs/Avatar(1).jpg)
 
 
 # Olá, eu sou a Sthefany! 💜
