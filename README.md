@@ -1,5 +1,6 @@
-<img scr="./docs/Avatar(1).png" width="600">
-
+<p align="center">
+<img scr="./docs/Avatar(1).jpg" width="600">
+</p>
 
 # Olá, eu sou a Sthefany! 💜
 
@@ -51,8 +52,6 @@ Minha evolução como desenvolvedora.
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=sthefanypereira521-dotcom&show_icons=true&include_all_commits=true&rank_icon=percentile&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FF0000&border_color=FF0000)](https://github.com/sthefanypereira521-dotcom)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sthefanypereira521-dotcom&theme=dark&border=FF0000)](https://git.io/streak-stats)
-
-[![Principais idiomas](https://github-readme-stats.vercel.app/api/top-langs/?username=sthefanypereira521-dotcom&layout=compact&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&border_color=FF0000)](https://github.com/sthefanypereira521-dotcom)
 
 
 
