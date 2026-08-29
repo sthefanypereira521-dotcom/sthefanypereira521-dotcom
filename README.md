@@ -1,6 +1,5 @@
-<p align="center">
-<img scr="./docs/Avatar(1).jpg" width="600">
-</p>
+![minha foto]./docs/Avatar(1).jpg
+
 
 # Olá, eu sou a Sthefany! 💜
 
