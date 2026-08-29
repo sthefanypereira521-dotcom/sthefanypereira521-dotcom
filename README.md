@@ -1,4 +1,4 @@
-![Banner](./docs/github-header-banner.png)
+<img scr="./docs/Avatar(1).png" width="600">
 
 # Olá, eu sou a Sthefany! 💜
 
