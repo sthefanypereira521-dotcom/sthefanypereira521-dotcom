@@ -59,10 +59,9 @@ Minha evolução como desenvolvedora.
 
 
 
+##  Minhas contribuições
 
-
-[![estatisticas do Git](https://github-stats-extended.vercel.app/api?username=sthefanypereira521-dotcom&rank_icon=percentile&custom_title=Minhas%20estat%C3%ADsticas%20&show_icons=true&include_all_commits=true&theme=maroongold)](https://github.com/sthefanypereira521-dotcom)
-
+![GitHub Contribution Snake](https://raw.githubusercontent.com/sthefanypereira521-dotcom/sthefanypereira521-dotcom/output/github-contribution-grid-snake.svg)
 
 
 
