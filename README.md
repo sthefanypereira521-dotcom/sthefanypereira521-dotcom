@@ -54,3 +54,25 @@ Minha evolução como desenvolvedora.
 
 
 
+
+![estatistica do repositorio],
+(https://github-stats-extended.vercel.app/api/pin?username=sthefanypereira521-dotcom&repo=mini_sistema_pizzaria&show_owner=true&description_lines_count=3&theme=maroongold)
+
+
+
+
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=sthefanypereira521-dotcom&rank_icon=percentile&custom_title=Minhas%20estat%C3%ADsticas%20&show_icons=true&include_all_commits=true&theme=maroongold)](https://github-stats-extended.vercel.app/api?username=sthefanypereira521-dotcom&rank_icon=percentile&custom_title=Minhas%20estat%C3%ADsticas%20&show_icons=true&include_all_commits=true&theme=maroongold)
+
+
+
+
+
+
+(https://github-stats-extended.vercel.app/api?username=sthefanypereira521-dotcom&rank_icon=percentile&custom_title=Minhas%20estat%C3%ADsticas%20&show_icons=true&include_all_commits=true&theme=maroongold)
+
+
+
+
+
+
