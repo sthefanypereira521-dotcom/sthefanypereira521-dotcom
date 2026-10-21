@@ -48,16 +48,8 @@ Minha evolução como desenvolvedora.
 
 ## 📊 Estatísticas do GitHub
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=sthefanypereira521-dotcom&show_icons=true&include_all_commits=true&rank_icon=percentile&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FF0000&border_color=FF0000)](https://github.com/sthefanypereira521-dotcom)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sthefanypereira521-dotcom&theme=dark&border=FF0000)](https://git.io/streak-stats)
-
-
-
-
-![estatistica do repositorio],
-(https://github-stats-extended.vercel.app/api/pin?username=sthefanypereira521-dotcom&repo=mini_sistema_pizzaria&show_owner=true&description_lines_count=3&theme=maroongold)
-
+[![estatistica do repositorio](https://github-stats-extended.vercel.app/api/pin/?username=sthefanypereira521-dotcom&repo=mini_sistema_pizzaria&show_owner=true&description_lines_count=3&theme=maroongold)](https://github.com/sthefanypereira521-dotcom/mini_sistema_pizzaria)
 
 
 
@@ -69,7 +61,7 @@ Minha evolução como desenvolvedora.
 
 
 
-(https://github-stats-extended.vercel.app/api?username=sthefanypereira521-dotcom&rank_icon=percentile&custom_title=Minhas%20estat%C3%ADsticas%20&show_icons=true&include_all_commits=true&theme=maroongold)
+[!(https://github-stats-extended.vercel.app/api?username=sthefanypereira521-dotcom&rank_icon=percentile&custom_title=Minhas%20estat%C3%ADsticas%20&show_icons=true&include_all_commits=true&theme=maroongold)](https://github.com/sthefanypereira521-dotcom)
 
 
 
