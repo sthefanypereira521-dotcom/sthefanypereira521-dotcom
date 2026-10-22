@@ -3,7 +3,7 @@
 
 # Olá, eu sou a Sthefany! 💜
 
-Finalizando minha graduação em IoT (Internet das Coisas)
+graduada em IoT (Internet das Coisas)
 Futura desenvolvedora Backend com Python.
 
 ## 💜 Sobre mim
@@ -55,6 +55,14 @@ Minha evolução como desenvolvedora.
 
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=sthefanypereira521-dotcom&rank_icon=percentile&custom_title=Minhas%20estat%C3%ADsticas%20&show_icons=true&include_all_commits=true&theme=maroongold)](https://github-stats-extended.vercel.app/api?username=sthefanypereira521-dotcom&rank_icon=percentile&custom_title=Minhas%20estat%C3%ADsticas%20&show_icons=true&include_all_commits=true&theme=maroongold)
+
+
+
+
+
+![Linguagens mais usadas](https://github-stats-extended.vercel.app/api/top-langs?username=sthefanypereira521-dotcom&layout=compact&langs_count=11&theme=maroongold)
+
+
 
 
 
