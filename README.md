@@ -20,8 +20,8 @@ Estou construindo minha base na área de tecnologia com foco em backend.
 
 
 
-##  Tecnologias em estudo
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,fastapi,java,postgres,docker)](https://skillicons.dev)
+##  Tecnologias 
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,fastapi,java,postgres,docker,vs code,insomnia)](https://skillicons.dev)
 
 
 
