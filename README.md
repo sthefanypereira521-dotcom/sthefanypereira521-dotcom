@@ -63,7 +63,7 @@ Minha evolução como desenvolvedora.
 
 ## Projeto mini-delivery
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=sthefanypereira521-dotcom&repo=sthefanypereira521-dotcom%2Fmini_sistema_pizzaria%2Fgithub-readme-stats&description_lines_count=3&disable_animations=false&theme=dark_github_repocard)](https://github.com/sthefanypereira521-dotcom/mini_sistema_pizzaria/github-readme-stats)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=sthefanypereira521-dotcom&repo=sthefanypereira521-dotcom%2Fmini_sistema_pizzaria%2Fgithub-readme-stats&description_lines_count=3&disable_animations=false&theme=dark_github_repocard)](https://github.com/sthefanypereira521-dotcom/mini_sistema_pizzaria)
 
 
 
