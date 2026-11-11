@@ -71,7 +71,7 @@ Minha evolução como desenvolvedora.
 
 ## projeto mini-sistema-bancario
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=sthefanypereira521-dotcom&repo=sthefanypereira521-dotcom%2Fsistema_bancario%2Fgithub-readme-stats&description_lines_count=3&disable_animations=false&theme=dark_github_repocard)](https://github.com/sthefanypereira521-dotcom/sistema_bancario/github-readme-stats)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=sthefanypereira521-dotcom&repo=sistema_bancario&description_lines_count=3&disable_animations=false&theme=dark)](https://github.com/sthefanypereira521-dotcom/sistema_bancario)
 
 
 
