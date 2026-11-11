@@ -4,7 +4,7 @@
 # Olá, eu sou a Sthefany! 💜
 
 graduada em IoT (Internet das Coisas)
-Futura desenvolvedora Backend com Python.
+desenvolvedora Backend com Python.
 
 ## 💜 Sobre mim
 Gosto de aprender na prática e acompanhar minha evolução passo a passo.
@@ -21,7 +21,9 @@ Estou construindo minha base na área de tecnologia com foco em backend.
 
 
 ##  Tecnologias 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,fastapi,java,postgres,docker,vs code,insomnia)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,
+python,fastapi,
+java,postgres,docker)](https://skillicons.dev)
 
 
 
@@ -41,20 +43,16 @@ Me tornar uma desenvolvedora backend sólida, criando projetos reais com Python 
 
 ##  O que você vai encontrar aqui no meu GitHub
 Exercícios práticos,
-Projetos simples,
+Projetos,
 Minha evolução como desenvolvedora.
 
 
 
-## 📊 Estatísticas do GitHub
+## 📊 Estatísticas 
 
 
-[![estatistica do repositorio](https://github-stats-extended.vercel.app/api/pin/?username=sthefanypereira521-dotcom&repo=mini_sistema_pizzaria&show_owner=true&description_lines_count=3&theme=maroongold)](https://github.com/sthefanypereira521-dotcom/mini_sistema_pizzaria)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=sthefanypereira521-dotcom&rank_icon=github&include_all_commits=true&theme=midnight-purple)](https://github-stats-extended.vercel.app/api?username=sthefanypereira521-dotcom&rank_icon=github&include_all_commits=true&theme=midnight-purple)
 
-
-
-
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=sthefanypereira521-dotcom&rank_icon=percentile&custom_title=Minhas%20estat%C3%ADsticas%20&show_icons=true&include_all_commits=true&theme=maroongold)](https://github-stats-extended.vercel.app/api?username=sthefanypereira521-dotcom&rank_icon=percentile&custom_title=Minhas%20estat%C3%ADsticas%20&show_icons=true&include_all_commits=true&theme=maroongold)
 
 
 
