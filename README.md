@@ -21,9 +21,7 @@ Estou construindo minha base na área de tecnologia com foco em backend.
 
 
 ##  Tecnologias 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,
-python,fastapi,
-java,postgres,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,fastapi,java,postgres,docker)](https://skillicons.dev)
 
 
 
@@ -56,9 +54,14 @@ Minha evolução como desenvolvedora.
 
 
 
+## Linguagens mais usadas
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=sthefanypereira521-dotcom&layout=compact&hide_title=true&langs_count=15&theme=midnight-purple)](https://github-stats-extended.vercel.app/api/top-langs?username=sthefanypereira521-dotcom&layout=compact&hide_title=true&langs_count=15&theme=midnight-purple)
 
 
-![Linguagens mais usadas](https://github-stats-extended.vercel.app/api/top-langs?username=sthefanypereira521-dotcom&layout=compact&langs_count=11&theme=maroongold)
+
+
+## Projeto mini-delivery
+
 
 
 
@@ -66,9 +69,6 @@ Minha evolução como desenvolvedora.
 
 
  ## Minhas contribuições
- 
-
-
 
 <p align="center">
   <picture>
