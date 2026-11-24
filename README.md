@@ -78,12 +78,3 @@ Minha evolução como desenvolvedora.
 
 
 
- ## Minhas contribuições
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sthefanypereira521-dotcom/sthefanypereira521-dotcom/gh-pages/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sthefanypereira521-dotcom/sthefanypereira521-dotcom/gh-pages/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake" width="100%" src="https://raw.githubusercontent.com/sthefanypereira521-dotcom/sthefanypereira521-dotcom/gh-pages/github-contribution-grid-snake.svg">
-  </picture>
-</p>
